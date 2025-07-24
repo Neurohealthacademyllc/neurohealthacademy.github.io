@@ -1,1 +1,1 @@
-# neurohealthacademy.github.io
+# neurohealthacademy.org
